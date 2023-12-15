@@ -23,11 +23,11 @@ Este script em Python implementa o método Simplex para resolver problemas de pr
 
 ## Exemplo
 Suponha que você tenha o seguinte problema de programação linear:
-Maximizar Z = 3x1 + 2x2
-Sujeito a:
-2x1 + x2 <= 10
-4x1 - 5x2 >= -8
-x1, x2 >= 0
+-Maximizar Z = 3x1 + 2x2
+-Sujeito a:
+-2x1 + x2 <= 10
+-4x1 - 5x2 >= -8
+-x1, x2 >= 0
 
 1. Insira o número de variáveis: 2
 2. Insira o número de restrições: 2
